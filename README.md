@@ -3,10 +3,10 @@
 #### Login to IBM Cloud via terminal
 <i>ibmcloud login -sso</i>
 
-#### Target cloudFoundery applciation in cloud <br>
+#### Target cloudFoundery applciation in cloud
 <i>ibmcloud target --cf </i>
 
-#### Push given project to IBMCloud production <br>
+#### Push given project to IBMCloud production
 <i>ibmcloud cf push</i>
 
 #### See deployment log <br>
