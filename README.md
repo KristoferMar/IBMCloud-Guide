@@ -1,6 +1,6 @@
 # IBMCloud-Guide
 
-# Login to IBM Cloud via terminal <br>
+#### Login to IBM Cloud via terminal <br>
 <i>ibmcloud login -sso</i>
 
 Target cloudFoundery applciation in cloud <br>
