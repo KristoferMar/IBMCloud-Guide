@@ -11,6 +11,9 @@ Documentation: <br>
 #### Target cloudFoundery applciation in cloud
 <i>ibmcloud target --cf </i>
 
+<h4>apps - List all apps in the target space</h4>
+<i>ibmcloud cf apps</i>
+
 #### Push given project to IBMCloud production
 <i>ibmcloud cf push</i>
 
