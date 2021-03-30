@@ -16,6 +16,8 @@ Documentation: <br>
 
 #### Push given project to IBMCloud production
 <i>ibmcloud cf push</i>
+And with specific startup command
+<i>ibmcloud cf push YOUR_APP -c "node YOUR-APP.js"</i>
 
 #### See deployment log <br>
 <i>ibmcloud cf logs <-application server name-> </i>
