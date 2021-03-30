@@ -15,12 +15,12 @@ Documentation: <br>
 <i>ibmcloud cf apps</i>
 
 #### Push given project to IBMCloud production
-<i>ibmcloud cf push</i>
-And with specific startup command
-<i>ibmcloud cf push YOUR_APP -c "node YOUR-APP.js"</i>
+<i>ibmcloud cf push</i><br>
+And with specific startup command<br>
+<i>ibmcloud cf push YOUR_APP -c "node YOUR-APP.js"</i><br>
 
 #### See deployment log <br>
-<i>ibmcloud cf logs <-application server name-> </i>
+<i>ibmcloud cf logs "application server name" </i>
 
 <h2>Deploying Node.js to Cloud foundry</h2>
 
