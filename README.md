@@ -14,7 +14,7 @@ Documentation: <br>
 <h4>apps - List all apps in the target space</h4>
 <i>ibmcloud cf apps</i>
 
-<h4> Push given project to IBMCloud production</h4>
+<h4> (In project directory) Push project to Cloud Foundry in IBMCloud</h4>
 <i>ibmcloud cf push</i><br><br>
 And with specific startup command<br>
 <i>ibmcloud cf push YOUR_APP -c "node YOUR-APP.js"</i><br>
